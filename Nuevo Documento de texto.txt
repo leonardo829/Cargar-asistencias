@@ -1,0 +1,41 @@
+Bases de Datos Relacionales:
+SQL Server: desarrollado por la empresa Microsoft, creado en el lenguaje Transact-SQL,utilizado para manipular y recuperar datos, crear tablas y definir relaciones entre ellas.
+
+MySQL: Oracle SQL, se utiliza para gestionar bases de datos, basado en algebra relacional, es principalmente utilizado para almacenar datos de diversos servicios web.
+
+PostgreSQL: es un sistema de BD Orientado a objetos y de codigo abierto, se suele utilizar en servicios de mapas web, o proyectos de desarrollo open source.
+
+
+Base de Datos No Realcionales:
+MongoDB: es una BD NoSQL Orientada a documentos, se utiliza para almacenar volumenes masivos de datos, no se basa en tablas y columnas sino en, Coleciones y documentos.
+
+Cassandra DB:es un software NoSQL basado en almacenamiento 'Tabular' de codigo abierto escrito en java, permite grandes volumenes de datos en forma distribuida, lo utiliza 'x' para su plataforma.
+
+Redis DB: es un motor de BD en memoria, basado en tablas de hashes , Desarrolado en ANSI C, tambien usada como BD durable o persistente.
+
+
+Base de Datos Orientadas a Objetos:
+db4Objects:deja de existir un lenguaje SQL y pasa a crearce sistemas de consultas por metodos delegados y actualizacion, creacion, borrado automatico de entidades, mediante codigo compilable. Por ejemplo C#.
+
+
+Base de Datos en Memoria:
+Memcached: es un sistema de almacenamiento en caché de alto rendimiento, se creo para evitar la demora de las BD al utilizar aplicaciones web sofisticadas, gracias a su licencia BSD, se puede utilizar, modificar, y copiar libremente.
+
+
+
+Base de Datos de Grafos:
+neo4j:se utiliza para identificar interacciones que indican fraude, entidades o individuos similares. facilita el desbloqueo de respuestas por que prioriza las relaciones en lugar de mantenerlas ocultas en filas y columnas, utilizando mas de 65 algorritmos preajustados,tecnicas de datos conectados y modelos de aprendizaje automatico.
+
+Amazon Neptune: es rapido, fiable y completamente administrado, le permite crear y ejecutar aplicaciones que funcionen con conjuntos de datos altamente conectados,este motor esta optimizado para almacenar miles de millones de relaciones y consultar el grafico en milisegundos de respuesta.
+
+
+ 
+
+Base de datos de tiempo Real:
+Apache Kafka:sirve para recoger, procesar y almacenar datos de eventos de streaming o datos sin principios ni final concretos, es de codigo abierto y  recibe la colaboracion y aportes de una comunidad mundial de desarrolladores.
+
+elasticsearch: se utiliza mayormente para analisis de registros, busqueda de texto completo, inteligencia de seguridad, analisis empresarial y algunos casos de inteligencia operativa. 
+
+
+Base de datos Distribuidas:
+Amazon DynamoDB: ofrece un rendimiento rapido y predecible, permite delegar las cargas administrativas , tambien ofrece el cifrado en reposo, que elimina la carga y la complejidad operativa que conlleva a la proteccion de informacion confidencial.
